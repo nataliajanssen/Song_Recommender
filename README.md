@@ -1,3 +1,3 @@
 # Song_Recommender
 
-![](spotify.jpg)
+![](spotify.jpeg)
